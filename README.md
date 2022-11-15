@@ -1,6 +1,6 @@
-#Caspulma
+# Caspulma
 
-##A Bulma theme for Hugo, inspired by Casper Ghost theme.
+## A Bulma theme for Hugo, inspired by Casper Ghost theme.
 
 This theme use :
 - open-color : https://yeun.github.io/open-color/
